@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const toggleBtn = document.querySelector(".sidebar-toggle");
 const closeBtn = document.querySelector(".close-Btn");
 const sidebar = document.querySelector(".sidebar");
@@ -19,7 +18,7 @@ closeBtn.addEventListener("click",function() {
     sidebar.classList.remove("show-sidebar");
 
 });
-=======
+
 const weatherScorer=(weather) => {
     let score =0
     if(weather=='sunny'){
@@ -44,35 +43,3 @@ const weatherScorer=(weather) => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> d21b3e6 (Tip calculator initial commit)
