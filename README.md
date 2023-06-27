@@ -16,7 +16,7 @@
 ![Counter_Js](https://user-images.githubusercontent.com/114981861/232951201-45232eae-bbbe-4a38-b111-86fbe27a33e7.png)
 
 
-                                              5-EMI-Calculator
+                                              5-EMI_Calculator
 ![EMI_Calculator_JS](https://user-images.githubusercontent.com/114981861/232951167-6a6161e0-c22f-4729-ad6c-2690a71a19f0.png)
 
 
