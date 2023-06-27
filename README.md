@@ -8,7 +8,7 @@
 ![Clock_JS](https://user-images.githubusercontent.com/114981861/232951607-27b12703-098f-4106-9235-f35dabaf7080.png)
 
 
-                                              3-Color-Flipper
+                                              3-Color_Flipper
 ![ColorFlipper_JS](https://user-images.githubusercontent.com/114981861/232951265-79d10d54-fe43-49da-81fb-12e6ea634e0a.png)
 
 
@@ -53,7 +53,7 @@
 ![Phone_js](https://user-images.githubusercontent.com/114981861/232951503-996b4f6a-d0d5-4156-9e0e-f00e16e8ff09.png)
 
 
-                                              14-Quote-Generator
+                                              14-Quote_Generator
 
 ![QouteGen_Js](https://user-images.githubusercontent.com/114981861/232952553-f9cb1ec8-163c-4755-ba23-501328808478.png)
 
@@ -67,7 +67,7 @@
 
 
 
-                                              17-Question ans
+                                              17-Question_ans
 ![Q⁄a_js](https://user-images.githubusercontent.com/114981861/232952041-1e6fffb2-43af-4946-a3d9-12ccba57fb3b.png)
 
 
