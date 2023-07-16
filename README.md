@@ -24,7 +24,7 @@
 ![Generate_Lorem_JS](https://user-images.githubusercontent.com/114981861/232951305-c9b18996-70ab-4490-83a4-423dd9479e00.png)
 
 
-                                              7-Horizontal_navbar
+                                              7-Horizontal_Navbar
 ![HorizontalNavbar_JS](https://user-images.githubusercontent.com/114981861/232951385-0799053a-e202-4028-a345-831cdf347c0f.png)
 
 
