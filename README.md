@@ -62,7 +62,7 @@
 ![Modal](https://user-images.githubusercontent.com/114981861/232952688-7da172ab-eeb5-4e17-9173-1c00af807f26.png)
 
 
-                                              16-q/a
+                                              16-Question and Answer
 ![Q⁄A](https://user-images.githubusercontent.com/114981861/232952794-25ccab8a-1e6d-4d5d-a08d-01b5a0ff1983.png)
 
 
@@ -87,7 +87,7 @@
 ![table_pro](https://user-images.githubusercontent.com/114981861/232952200-bfc0981d-7dbc-4cc4-9581-859cb2bcd6c6.png)
 
 
-                                              22-Tip Calculator
+                                              22-Tip_Calculator
 ![TipCalculator_Js](https://user-images.githubusercontent.com/114981861/232950984-1c2a796b-ced2-4dbd-8f1c-8b9cd926ce28.png)
 
 
@@ -108,7 +108,7 @@
 
 
 
-                                            26-Video-Player
+                                            26-Video_Player
 
 ![videoplayer](https://user-images.githubusercontent.com/114981861/232952448-0d147370-b7b5-48b1-8b91-39dee6f2190f.png)
 
