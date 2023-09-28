@@ -71,7 +71,7 @@
 ![Q⁄a_js](https://user-images.githubusercontent.com/114981861/232952041-1e6fffb2-43af-4946-a3d9-12ccba57fb3b.png)
 
 
-                                              18-RPS
+                                              18-Rock Paper Scisor
 ![Rps_Js](https://user-images.githubusercontent.com/114981861/232951059-b9577d5e-47d7-4f44-b5ef-655f715e3002.png)
 
 
