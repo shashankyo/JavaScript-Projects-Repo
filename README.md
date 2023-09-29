@@ -45,11 +45,11 @@
 ![Notes_Js](https://user-images.githubusercontent.com/114981861/232951437-ac597c6e-33bb-4124-b17e-af84439c7cd7.png)
 
 
-                                              12-Password_Generator
+                                              12-Password-Generator
 ![PasswordGen_Js](https://user-images.githubusercontent.com/114981861/232951482-493053e7-3d02-4f78-bf3b-17483a9955ae.png)
 
 
-                                              13-Phone_Web_Ui
+                                              13-Phone_Web-Ui
 ![Phone_js](https://user-images.githubusercontent.com/114981861/232951503-996b4f6a-d0d5-4156-9e0e-f00e16e8ff09.png)
 
 
