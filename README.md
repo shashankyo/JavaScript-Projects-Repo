@@ -102,7 +102,7 @@
 
 
 
-                                              25-Slideshare
+                                              25-SlideShare
 ![slideshare](https://user-images.githubusercontent.com/114981861/232952328-b3efa55b-2797-48d3-95b1-e14ad9457135.png)
 
 
