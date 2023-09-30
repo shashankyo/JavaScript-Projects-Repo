@@ -28,7 +28,7 @@
 ![HorizontalNavbar_JS](https://user-images.githubusercontent.com/114981861/232951385-0799053a-e202-4028-a345-831cdf347c0f.png)
 
 
-                                              8-Menu
+                                              8-Restaurant-Menu
 ![menu_js](https://user-images.githubusercontent.com/114981861/232951113-aa106612-6430-4dbe-bba9-a33afbcdef54.png)
 
                                               9-ModalApp
