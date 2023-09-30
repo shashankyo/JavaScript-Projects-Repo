@@ -1,6 +1,6 @@
 # JavaScript-Projects-Repo
 
-                                              1-Age_Calculator
+                                              1-Age-Calculator
 ![Age_Calculator](https://user-images.githubusercontent.com/114981861/232951287-6657b615-6316-44b9-b9bd-8c6f0b78d4f5.png)
 
 
