@@ -36,7 +36,7 @@
 
                                               
 
-                                              10-Monkey-Animate
+                                              10-Monkey-Animation
 ![open](https://user-images.githubusercontent.com/114981861/232951866-e0aee17c-f73e-49f4-971f-016e09086914.png)
 ![close](https://user-images.githubusercontent.com/114981861/232951912-ae33d495-85c3-4815-8f71-c2016900bdf4.png)
 
