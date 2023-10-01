@@ -12,7 +12,7 @@
 ![ColorFlipper_JS](https://user-images.githubusercontent.com/114981861/232951265-79d10d54-fe43-49da-81fb-12e6ea634e0a.png)
 
 
-                                              4-Counter
+                                              4-Counter-App
 ![Counter_Js](https://user-images.githubusercontent.com/114981861/232951201-45232eae-bbbe-4a38-b111-86fbe27a33e7.png)
 
 
